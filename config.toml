@@ -1,0 +1,10 @@
+theme = "sonokai_andromeda"
+
+[editor]
+line-number = "relative"
+true-color = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "underline"
+select = "block"
